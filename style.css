@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(241, 231, 218);
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button {
+  margin: 20xp;
+}
+div {
+  margin-top: 40px;
+  text-align: center;
+}
